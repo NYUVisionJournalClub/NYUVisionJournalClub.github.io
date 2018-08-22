@@ -21,11 +21,15 @@ permalink: /cv/
 (The following part of the CV belongs to Noah Benson, will edit soon.)
 ### Honors and Grants 
 
-* **2013**       Trainee Abstract Travel Award Winner, [OHBM](https://www.humanbrainmapping.org/)
-* **2006**       Student Paper Competition Finalist, American Medical Informatics Association Conference
-* **2005-2008**  National Library of Medicine Research Training Grant
-* **2005-2008**  ARCS Foundation Top Future Scientist Fellowship, [www.arcsfoundation.org](https://cfn.upenn.edu/aguirre/wiki/)
-* **2004**       Hughes Bioinformatics Undergraduate Research Fellowship
+* **2018**       Vision Science Society (VSS) [Student Travel Award](https://www.visionsciences.org/2018-travel-awards/)
+* **2018-2019**  NYU Dean's Dissertation Fellowship
+* **2016-2018**  Ted Coons Graduate Student Travel Award
+* **2017**       NYU center of imaging token grant, for "Conservation of crowding distance in human hV4." (Co-PIs: Jon Winawer and Denis Pelli).
+* **2016**       ACNN (Advanced computational neuroscience network) workshop scholarship
+* **2016**       NYU GSAS Dean's student travel grant
+* **2013-2018**  Henry M. MacCracken scholarship for doctoral study
+* **2011**       NYU Dean's undergraduate research fund
+* **2008**       NYU freshmen and sophomore training grant
 
 ### Experience 
 
