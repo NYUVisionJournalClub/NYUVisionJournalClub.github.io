@@ -57,12 +57,18 @@ permalink: /cv/
 
 *Conference Posters*
 * Groen IIA, **Zhou JY**, Hermes D, Kan KN, Winawer K. (**2018**) *Simulation and recovery of broadband field potentials.* SFN.
-* **Zhou JY**, Benson NC, Pelli D, and Winawer J. (**2018**) *Conservation of crowding distance in human hV4.* VSS. Tempa, Florida.
+* **Zhou JY**, Benson NC, Pelli D, and Winawer J. (**2018**) *Conservation of crowding distance in human hV4.* VSS.
 * Schellekens W, **Zhou JY**, Siero J, Benson NC, GroenI, Piantoni G, Devinsky O, Petridou N, Ramsey NF, Winawer J. (**2018**) *Extending   population receptive fields to new domains.* The 4th Annual BRAIN Initiative Investigators Meeting, NIH. 
-* Kay KN, Winawer J, **Zhou JY**, Sertel M, Yoshor D, and Beauchamp M. (**2017**) *The dynamics of top-down modulaiton in human visual       cortex.* SFN, Washington DC.
+* Kay KN, Winawer J, **Zhou JY**, Sertel M, Yoshor D, and Beauchamp M. (**2017**) *The dynamics of top-down modulaiton in human visual       cortex.* SFN.
 * **Zhou JY**, Choi S, Winawer J. (**2017**) *Temporal windows in psychophysical discrimination and in neural responses in human visual     cortex.* VSS.
 * Choi S, **Zhou JY**, Winawer J. (**2016**) *Temporal integration and visual object recognition.* Undergraduate research conference at     NYU.
 * **Zhou JY**, Benson NC, Kay KN, and Winawer J. *Temporal summation and adaptation in human visual cortex.* VSS.
+
+### Teaching
+
+* **Summer 2017**: Instructor, undergraduate *Perception* at NYU
+* **Fall 2016**: Teaching assistant, undergraduate *Perception* at NYU
+* **2018-2011**: Grader, undergraduate *Calculus I-III and Linear Algebra* at NYU
 
 
 
