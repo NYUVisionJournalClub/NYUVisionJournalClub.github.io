@@ -6,6 +6,8 @@ permalink: /software/
 
 ## Libraries
 
+(All these belong to Noah Benson, will edit soon.)
+
 * **[Neuropythy](https://github.com/noahbenson/neuropythy)** is a Python library that is intended to
   build on the existing [nibabel](http://nipy.org/nibabel/) library. Neuropythy provides easy access
   to anatomical data stored in FreeSurfer subject directories, and provides numerous utilities for
