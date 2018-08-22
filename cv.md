@@ -68,7 +68,21 @@ permalink: /cv/
 
 * **Summer 2017**: Instructor, undergraduate *Perception* at NYU
 * **Fall 2016**: Teaching assistant, undergraduate *Perception* at NYU
-* **2018-2011**: Grader, undergraduate *Calculus I-III and Linear Algebra* at NYU
+* **2018-2011**: Grader, undergraduate *Calculus I-III* and *Linear Algebra* at NYU
+
+### Training
+
+* **Summer 2018**, Cold Spring Harbor Computational Neuroscience: Vision.
+* **Spring 2016**, Science Communication Workshop (hosted by Stephen Hall), NYU.
+
+### Services
+
+* **2016-present** Organizer of Vision Journal Club at NYU 
+
+### Professional Organizations
+
+* Vision Science Society
+* Society for Neuroscience
 
 
 
