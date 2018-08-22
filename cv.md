@@ -42,52 +42,15 @@ permalink: /cv/
   Cortex. _J. Neurosci._  DOI:[10.1523/JNEUROSCI.1724-17.2017](https://doi.org/10.1523/JNEUROSCI.1724-17.2017)
   
 *Under Review*
-* **Zhou JY**, Benson NC, Kay KN, Winawer J (**2018**) Unifying Temporal Phenomena in Human Visual Cortex. BioRxiv: [here](https://www.biorxiv.org/content/early/2018/07/08/108639)
+* **Zhou JY**, Benson NC, Kay KN, Winawer J (**2018**) Unifying Temporal Phenomena in Human Visual Cortex. BioRxiv: [current version](https://www.biorxiv.org/content/early/2018/07/08/108639)
+
+*In Prep*
+* **Zhou JY**, Groen IIA, Winawer J. Testing model prediction to different temporal phenomena in a single ECoG data set.
+* **Zhou JY**, Hermes D, Kay KN, Winawer J. Spatiotemporal model in V1-V3 tested using ECoG and fMRI.
+* Benson NC, **Zhou JY**, Pelli D, Winawer J. Conservation of crowding distance in human hV4. 
+* Groen IIA, **Zhou JY**, Hermes D, Kay KN, Winawer J. Simulation and recovery of broadband field potentials.
 
   
-  
-  
-* Aguirre GK, Datta R, **Benson NC**, Prasad S, Jacobson SG, _et al._ (**2016**) Patterns of
-  Individual Variation in Visual Pathway Structure and Function in the Sighted and Blind. PLOS ONE
-  **11**(11):e0164677. DOI:[10.1371/journal.pone.0164677](https://doi.org/10.1371/journal.pone.0164677)
-* Bock AS, Binda P, **Benson NC**, Bridge H, Watkins KE, Fine I (**2016**) Resting-State Retinotopic
-  Organization in the Absence of Retinal Input and Visual Experience. _J. Neurosci._
-  **35**(36):12366-12382. DOI:
-  [10.1523/JNEUROSCI.4715-14.2015](https://doi.org/10.1523/JNEUROSCI.4715-14.2015) 
-* Butt OH, **Benson NC**, Datta R, Aguirre GK (**2015**) Hierarchical and homotopic correlations of
-  spontaneous neural activity within the visual cortex of the sighted and
-  blind. _Front. Hum. Neurosci._
-  **9**:25-25. DOI:[10.3389/fnhum.2015.00025](https://doi.org/10.3389/fnhum.2015.00025)
-* Benson NC, Manning JR, Brainard DH (**2014**) Unsupervised learning of cone spectral classes from
-  natural images. _PLOS Comput. Biol._
-  **10**(6):e1003652. DOI:[10.1371/journal.pcbi.1003652](https://doi.org/10.1371/journal.pcbi.1003652)
-* **Benson NC**, Butt OB, Brainard DH, Aguirre GK (**2014**). Correction of distortion in flattened
-  representations of the cortical surface allows prediction of V1-V3 functional organization from
-  anatomy. _PLOS Comput. Biol._ 10(3):
-  e1003538. DOI:[10.1371/journal.pcbi.1003538](https://doi.org/10.1371/journal.pcbi.1003538)
-* Butt OH, **Benson NC**, Datta R, Aguirre GK (**2014**) The Fine-Scale Functional Correlation of
-  Striate Cortex in Sighted and Blind People. _J. Neurosci._
-  **33**(41):16209-16219. DOI:[10.1523/JNEUROSCI.0363-13.2013](https://doi.org/10.1523/JNEUROSCI.0363-13.2013)
-* **Benson NC**, Butt OH, Datta R, Radoeva PD, Brainard DH, Aguirre GK (**2012**) The retinotopic
-  organization of striate cortex is well predicted by surface topology. _Curr. Biol._
-  **22**(21):2081-5. DOI:[10.1016/j.cub.2012.09.014](https://doi.org/10.1016/j.cub.2012.09.014)
-* **Benson NC**, Daggett V (**2012**) A comparison of methods for the analysis of molecular dynamics
-  simulations. _J. Phys. Chem. B_ 116(29):8722-31
-* **Benson NC**, Daggett V (**2012**) Wavelet analysis of protein motion. _Int. J. Wavelets
-  Multi. Inf. Process._ **10**:1250040-59
-* **Benson NC**, Daggett V (**2012**) A chemical group graph representation for efficient
-  high-throughput analysis of atomistic protein simulations. _J. Bioinformatics Comput. Biol._
-  **0**(2):1250008-24 
-* van der Kamp MW, Schaeffer RD, Jonsson AL, Scouras AD, Simms A, Toofanny RD, **Benson NC**,
- Anderson PC, Merkley ED, Rysavy S, Bromley D, Beck DAC, Daggett V (**2010**) Dynameomics: a
- comprehensive database of protein dynamics. _Structure_ **18**:423-435 
- **Benson NC**, Daggett V (**2009**) Dynameomics: large-scale assessment of native protein
- flexibility. _Protein Sci._ **17**(12):2038-50 
-* Simms AM, Toofanny RD, Kehl C, **Benson NC**, Daggett V (**2008**) Dynameomics data warehouse:
-  Design of a computational lab workflow and scientific data repository. _Protein
-  Eng. Des. Sel._ **21**(6):369-77
-* **Benson NC**, Whipple M, Kalet IJ (**2006**) A Markov model approach to predicting regional tumor
-  spread in the lymphatic system of the head and neck. _AMIA Annu. Symp. Proc._ :31-5
 
 ### Conference Abstracts
                 
