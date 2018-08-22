@@ -19,19 +19,18 @@ permalink: /cv/
   *Graduate Coursework:* Topology, real analysis, probability, linear algebra, numerical method, microeconomics theory. 
   *Undergraduate Coursework:* abstract algebra, game theory, macroeconomic theory.
   
-### Honors and Grants 
+### Grants, fellowships, and awards
 
-* **2018**       Vision Science Society (VSS) Student Travel Award
+* **2018**       Vision Science Society (VSS) Student Travel Award  
 * **2018-2019**  NYU Dean's Dissertation Fellowship
 * **2016-2018**  Ted Coons Graduate Student Travel Award
-* **2017**       NYU center of imaging token grant, for "Conservation of crowding distance in human hV4." (Co-PIs: Jon Winawer and Denis Pelli).
+* **2017**       NYU center of imaging token grant, for project "Conservation of crowding distance in human hV4." 
 * **2016**       ACNN (Advanced computational neuroscience network) workshop scholarship
 * **2016**       NYU GSAS Dean's student travel grant
 * **2013-2018**  Henry M. MacCracken scholarship for doctoral study
 * **2011**       NYU Dean's undergraduate research fund
 * **2008**       NYU freshmen and sophomore training grant
-
-* *Funding/awards to supervised student:*
+Funding/awards to supervised student:
 * **2016**  Silvia Choi, Hilary Ann Citrin Award for best undergraduate thesis. Research titile: *Temporal integration and visual object recognition.* Co-mentored with Jonathan Winawer.
 * **2015**  Silvia Choi, Dean's undergraduate research fund.
 
