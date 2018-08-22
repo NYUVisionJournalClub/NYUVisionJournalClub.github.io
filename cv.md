@@ -35,22 +35,18 @@ permalink: /cv/
 * **2016**  Silvia Choi, Hilary Ann Citrin Award for best undergraduate thesis. Research titile: *Temporal integration and visual object recognition.* Co-mentored with Jonathan Winawer.
 * **2015**  Silvia Choi, Dean's undergraduate research fund.
 
-
-
-### Experience 
-
-* **2016-Present**  Research Scientist with with Dr. Jonathan Winawer, Dept. of Psychology, New York University
-* **2014-2016**  Post-doctoral Fellowship with Dr. Jonathan Winawer, Dept. of Psychology, New York University
-* **2010-2014**  Post-doctoral Fellowship with Drs. David Brainard and Geoff Aguirre, Depts. of Psychology and Neurology, University of Pennsylvania
-* **2006-2010**  Graduate Student under Dr. Valerie Daggett, Protein Simulation Analysis and Data Mining, Division of Biomedical and Health Informatics, University of Washington
-* **2006**       Graduate Rotation with Dr. Ira Kalet, Markov Models as a Method of Predicting Tumor Spread
-* **2005**       Graduate Rotation with Dr. Valerie Daggett, Clustering of Protein Transition States
-* **2003-2005**  Undergraduate Research Assistant under Dr. Chris Bailey-Kellogg, Graph Theory and NMR
-
 ### Publications
 
-* Zhou JW, **Benson NC**, Kay KN, Winawer J (**2017**) Compressive Temporal Summation in Human Visual
-  Cortex. _J. Neurosci._ **In Press**
+*Published*
+* **Zhou JY**, Benson NC, Kay KN, Winawer J (**2017**) Compressive Temporal Summation in Human Visual
+  Cortex. _J. Neurosci._  DOI:[10.1523/JNEUROSCI.1724-17.2017](https://doi.org/10.1523/JNEUROSCI.1724-17.2017)
+  
+*Under Review*
+* **Zhou JY**, Benson NC, Kay KN, Winawer J (**2018**) Unifying Temporal Phenomena in Human Visual Cortex. BioRxiv: [here](https://www.biorxiv.org/content/early/2018/07/08/108639)
+
+  
+  
+  
 * Aguirre GK, Datta R, **Benson NC**, Prasad S, Jacobson SG, _et al._ (**2016**) Patterns of
   Individual Variation in Visual Pathway Structure and Function in the Sighted and Blind. PLOS ONE
   **11**(11):e0164677. DOI:[10.1371/journal.pone.0164677](https://doi.org/10.1371/journal.pone.0164677)
