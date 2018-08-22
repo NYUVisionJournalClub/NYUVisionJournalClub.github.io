@@ -3,6 +3,8 @@ layout: post
 title: Cortical Magnification
 ---
 
+(Noah did this entire page, currently I use it as a template and will change soon.)
+
 An analysis of cortical magnification data across 8 subjects.
 
 ## Introduction
