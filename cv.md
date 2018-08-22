@@ -15,10 +15,10 @@ permalink: /cv/
 * **B. A., Mathematics and Theoretical Economics, New York University**, 2007-2012  
   *Magna cum laude.* Advisor: [Andrew Caplin](https://wp.nyu.edu/andrewcaplin/)  
   *Research:* Microeconomic theories and decision making.   
-  *Methods:* Axiomatic approach to modeling choice behavior, behavioral experiment    
-  *Coursework:* Topology (graduate), real analysis (graduate), probability (graduate), linear algebra (graduate), numerical method (graduate), microeconomics theory (graduate), abstract algebra, game theory...
+  *Methods:* Axiomatic approach to modeling choice behavior, behavioral experiment      
+  *Graduate Coursework:* Topology, real analysis, probability, linear algebra, numerical method, microeconomics theory, 
+  *Undergraduate Coursework:* abstract algebra, game theory, macroeconomic theory.
   
-(The following part of the CV belongs to Noah Benson, will edit soon.)
 ### Honors and Grants 
 
 * **2018**       Vision Science Society (VSS) [Student Travel Award](https://www.visionsciences.org/2018-travel-awards/)
