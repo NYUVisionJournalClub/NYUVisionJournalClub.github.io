@@ -16,7 +16,7 @@ permalink: /cv/
   *Magna cum laude.* Advisor: [Andrew Caplin](https://wp.nyu.edu/andrewcaplin/)  
   *Research:* Microeconomic theories and decision making.   
   *Methods:* Axiomatic approach to modeling choice behavior, behavioral experiment      
-  *Graduate Coursework:* Topology, real analysis, probability, linear algebra, numerical method, microeconomics theory. 
+  *Graduate Coursework:* Topology, real analysis, probability, linear algebra, numerical method, microeconomics theory.     
   *Undergraduate Coursework:* abstract algebra, game theory, macroeconomic theory.
   
 ### Grants, fellowships, and awards
@@ -43,10 +43,10 @@ permalink: /cv/
 * **Zhou JY**, Benson NC, Kay KN, Winawer J (**2018**) Unifying Temporal Phenomena in Human Visual Cortex. [[BioRxiv](https://www.biorxiv.org/content/early/2018/07/08/108639)][[OSF project page](https://osf.io/z7e3t/)]
 
 *In Prep*
-* **Zhou JY**, Groen IIA, Winawer J. Model prediction to different temporal phenomena in a single ECoG data set.
-* **Zhou JY**, Hermes D, Kay KN, Winawer J. Spatiotemporal model in V1-V3 tested using ECoG and fMRI.
-* Benson NC, **Zhou JY**, Pelli D, Winawer J. Conservation of crowding distance in human hV4. 
-* Groen IIA, **Zhou JY**, Hermes D, Kay KN, Winawer J. Simulation and recovery of broadband field potentials.
+* **Zhou JY**, Groen IIA, Winawer J. *Model prediction to different temporal phenomena in a single ECoG data set.*
+* **Zhou JY**, Hermes D, Kay KN, Winawer J. *Spatiotemporal model in V1-V3 tested using ECoG and fMRI.*
+* Benson NC, **Zhou JY**, Pelli D, Winawer J. *Conservation of crowding distance in human hV4.* 
+* Groen IIA, **Zhou JY**, Hermes D, Kay KN, Winawer J. *Simulation and recovery of broadband field potentials.*
 
 
 ### Conference Abstracts
