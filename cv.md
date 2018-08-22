@@ -16,7 +16,7 @@ permalink: /cv/
   *Magna cum laude.* Advisor: [Andrew Caplin](https://wp.nyu.edu/andrewcaplin/)  
   *Research:* Microeconomic theories and decision making.   
   *Methods:* Axiomatic approach to modeling choice behavior, behavioral experiment    
-  *Coursework:* Topology (graduate), real analysis (graduate), probability (graduate), linear algebra (graduate), numerical method (graduate), microeconomics theory (graduate), abstract algebra...
+  *Coursework:* Topology (graduate), real analysis (graduate), probability (graduate), linear algebra (graduate), numerical method (graduate), microeconomics theory (graduate), abstract algebra, game theory...
   
 (The following part of the CV belongs to Noah Benson, will edit soon.)
 ### Honors and Grants 
