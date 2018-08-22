@@ -30,7 +30,8 @@ permalink: /cv/
 * **2013-2018**  Henry M. MacCracken scholarship for doctoral study
 * **2011**       NYU Dean's undergraduate research fund
 * **2008**       NYU freshmen and sophomore training grant
-Funding/awards to supervised student:
+
+*Funding/awards to supervised student:*
 * **2016**  Silvia Choi, Hilary Ann Citrin Award for best undergraduate thesis. Research titile: *Temporal integration and visual object recognition.* Co-mentored with Jonathan Winawer.
 * **2015**  Silvia Choi, Dean's undergraduate research fund.
 
