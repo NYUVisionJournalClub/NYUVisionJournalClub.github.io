@@ -11,9 +11,7 @@ Vitae]({{site.baseurl}}/cv/).
 
 ### Contact me
 
-Location:    
-6 Washington Place, room 957. New York City, NY, 10003.
+Location: 6 Washington Place, room 957. New York City, NY, 10003.
 
-Email:    
-[jingyang.zhou@nyu.edu](mailto:jingyang.zhou@nyu.edu)  
+Email: [jingyang.zhou@nyu.edu](mailto:jingyang.zhou@nyu.edu)  
 
