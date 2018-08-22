@@ -6,15 +6,19 @@ permalink: /cv/
 
 ### Education
 
-* Post-doctoral Fellowships, [Winawer Lab](https://wp.nyu.edu/winawerlab/), 2014-2016;
-  [Brainard Lab](https://color.psych.upenn.edu/), 2010-2014;
-  [Aguirre Lab](https://cfn.upenn.edu/aguirre/wiki/), 2010-2014;
-* Ph. D., University of Washington, 2005-2010  
-  School of Medicine, Division of Biomedical and Health Informatics
-* B. S., Purdue University, 2001-2005  
-  Major Concentrations: Mathematics, Computer Science, Biology (triple-major)  
-  Coursework Foci: discrete math, statistics, algorithms, theory of computation, biochemistry
-            
+* **Ph. D. candidate, Psychology, New York University**, 2013-current.  
+  Cognition and Perception program, Advisor: [Jonathan Winawer](https://wp.nyu.edu/winawerlab/)  
+  *Research:* Spatial and temporal processing on the visual cortex      
+  *Methods:* Computational modeling, fMRI electrocorticography (ECoG), psychophysics    
+  *Coursework:* Digital signal processing, image processing, sensory systems, statistics and psychophysics
+  
+* **B. A., Mathematics and Theoretical Economics, New York University**, 2007-2012  
+  *Magna cum laude.* Advisor: [Andrew Caplin](https://wp.nyu.edu/andrewcaplin/)  
+  *Research:* Microeconomic theories and decision making.   
+  *Methods:* Axiomatic approach to behavioral model, behavioral experiment    
+  *Coursework:* Topology (graduate), real analysis (graduate), probability (graduate), linear algebra (graduate), numerical method (graduate), microeconomics theory (graduate), abstract algebra...
+  
+(The following part of the CV belongs to Noah Benson, will edit soon.)
 ### Honors and Grants 
 
 * **2013**       Trainee Abstract Travel Award Winner, [OHBM](https://www.humanbrainmapping.org/)
