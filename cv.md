@@ -37,11 +37,9 @@ permalink: /cv/
 
 ### Publications
 
-*Published*
+*Published/Under Review*
 * **Zhou JY**, Benson NC, Kay KN, Winawer J (**2017**) Compressive Temporal Summation in Human Visual
   Cortex. _J. Neurosci._  DOI:[10.1523/JNEUROSCI.1724-17.2017](https://doi.org/10.1523/JNEUROSCI.1724-17.2017)
-  
-*Under Review*
 * **Zhou JY**, Benson NC, Kay KN, Winawer J (**2018**) Unifying Temporal Phenomena in Human Visual Cortex. BioRxiv: [current version](https://www.biorxiv.org/content/early/2018/07/08/108639)
 
 *In Prep*
