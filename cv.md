@@ -52,16 +52,16 @@ permalink: /cv/
 ### Conference Abstracts
 
 *Conference Talks*
-* **Zhou JY**, Benson NC, Kay KN, and Winawer J.*Dynamics of temporal summation in human visual cortex.* Talk at VSS symposium "Advances   in temporal models of human visual cortex," VSS 2018.
+* **Zhou JY**, Benson NC, Kay KN, and Winawer J.*Dynamics of temporal summation in human visual cortex.* Talk at VSS symposium "Advances   in temporal models of human visual cortex," VSS 2018. [[Symposium descripiton and talk abstract](https://www.visionsciences.org/2018-3-symposia/)].
 * **Zhou JY**, Benson NC, Pelli D, and Winawer J. *Conservation of crowding distance in human hV4.* Talk presented at 2017 Optical Society of America Fall Vision Meeting, Washington DC.
 
 *Conference Posters*
 * Groen IIA, **Zhou JY**, Hermes D, Kan KN, Winawer K. *Simulation and recovery of broadband field potentials.* SFN 2018.
 * **Zhou JY**, Benson NC, Pelli D, and Winawer J. *Conservation of crowding distance in human hV4.* VSS 2018.
 * Schellekens W, **Zhou JY**, Siero J, Benson NC, GroenI, Piantoni G, Devinsky O, Petridou N, Ramsey NF, Winawer J. *Extending   population receptive fields to new domains.* The 4th Annual BRAIN Initiative Investigators Meeting, NIH, 2018. 
-* Kay KN, Winawer J, **Zhou JY**, Sertel M, Yoshor D, and Beauchamp M. *The dynamics of top-down modulaiton in human visual       cortex.* SFN 2017.
-* **Zhou JY**, Choi S, Winawer J. *Temporal windows in psychophysical discrimination and in neural responses in human visual     cortex.* VSS 2017.
-* Choi S, **Zhou JY**, Winawer J. *Temporal integration and visual object recognition.* Undergraduate research conference at     NYU, 2016.
+* Kay KN, Winawer J, **Zhou JY**, Sertel M, Yoshor D, and Beauchamp M. *The dynamics of top-down modulaiton in human visual cortex.* SFN 2017.
+* **Zhou JY**, Choi S, Winawer J. *Temporal windows in psychophysical discrimination and in neural responses in human visual cortex.* VSS 2017.
+* Choi S, **Zhou JY**, Winawer J. *Temporal integration and visual object recognition.* Undergraduate research conference at NYU, 2016.
 * **Zhou JY**, Benson NC, Kay KN, and Winawer J. *Temporal summation and adaptation in human visual cortex.* VSS 2016.
 
 ### Teaching
@@ -75,7 +75,7 @@ permalink: /cv/
 * **Summer 2018**, Cold Spring Harbor Computational Neuroscience: Vision.
 * **Spring 2016**, Science Communication Workshop (hosted by Stephen Hall), NYU.
 
-### Services
+### Service
 
 * **2016-present** Organizer of Vision Journal Club at NYU 
 
