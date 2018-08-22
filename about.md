@@ -4,13 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I'm a research scientist in the [Winawer Lab](https://wp.nyu.edu/winawerlab/) at
-[New York University](http://www.nyu.edu/). I study human vision with a
-particular interest in how the anatomical structure of the brain is related to
-visual experience. For more information about my research, see my
+I'm a PhD candidate in the [Winawer Lab](https://wp.nyu.edu/winawerlab/) at
+[New York University](http://www.nyu.edu/). I study visual neuroscience and explore how visual information is transformed at different stages of cortical processing. For more information about my research, see my
 [Research]({{site.baseurl}}/research/) page or my [Curriculum
 Vitae]({{site.baseurl}}/cv/).
 
 ### Contact me
 
-[nben@nyu.edu](mailto:nben@nyu.edu)
+[jingyang.zhou@nyu.edu](mailto:jingyang.zhou@nyu.edu)
