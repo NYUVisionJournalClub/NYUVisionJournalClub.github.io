@@ -43,14 +43,29 @@ permalink: /cv/
 * **Zhou JY**, Benson NC, Kay KN, Winawer J (**2018**) Unifying Temporal Phenomena in Human Visual Cortex. [[BioRxiv](https://www.biorxiv.org/content/early/2018/07/08/108639)][[OSF project page](https://osf.io/z7e3t/)]
 
 *In Prep*
-* **Zhou JY**, Groen IIA, Winawer J. Testing model prediction to different temporal phenomena in a single ECoG data set.
+* **Zhou JY**, Groen IIA, Winawer J. Model prediction to different temporal phenomena in a single ECoG data set.
 * **Zhou JY**, Hermes D, Kay KN, Winawer J. Spatiotemporal model in V1-V3 tested using ECoG and fMRI.
 * Benson NC, **Zhou JY**, Pelli D, Winawer J. Conservation of crowding distance in human hV4. 
 * Groen IIA, **Zhou JY**, Hermes D, Kay KN, Winawer J. Simulation and recovery of broadband field potentials.
 
-  
 
 ### Conference Abstracts
+
+*Conference Talks*
+* **Zhou JY**, Benson NC, Kay KN, and Winawer J. (**2018**) *Dynamics of temporal summation in human visual cortex.* Talk at VSS symposium "Advances   in temporal models of human visual cortex," Tempa, Florida.
+* **Zhou JY**, Benson NC, Pelli D, and Winawer J. (**2017**) *Conservation of crowding distance in human hV4.* Talk presented at Optical Society of America Fall Vision Meeting, Washington DC.
+
+*Conference Posters*
+* Groen IIA, **Zhou JY**, Hermes D, Kan KN, Winawer K. (**2018**) *Simulation and recovery of broadband field potentials.* SFN.
+* **Zhou JY**, Benson NC, Pelli D, and Winawer J. (**2018**) *Conservation of crowding distance in human hV4.* VSS. Tempa, Florida.
+* Schellekens W, **Zhou JY**, Siero J, Benson NC, GroenI, Piantoni G, Devinsky O, Petridou N, Ramsey NF, Winawer J. (**2018**) *Extending   population receptive fields to new domains.* The 4th Annual BRAIN Initiative Investigators Meeting, NIH. 
+* Kay KN, Winawer J, **Zhou JY**, Sertel M, Yoshor D, and Beauchamp M. (**2017**) *The dynamics of top-down modulaiton in human visual       cortex.* SFN, Washington DC.
+* **Zhou JY**, Choi S, Winawer J. (**2017**) *Temporal windows in psychophysical discrimination and in neural responses in human visual     cortex.* VSS.
+* Choi S, **Zhou JY**, Winawer J. (**2016**) *Temporal integration and visual object recognition.* Undergraduate research conference at     NYU.
+* **Zhou JY**, Benson NC, Kay KN, and Winawer J. *Temporal summation and adaptation in human visual cortex.* VSS.
+
+
+
                 
 * **Benson NC**, Broderick WF, M&uuml;ller H, Winawer J (**2017**) From Retina to Extra-striate
   cortex: Forward Models of Visual Input; Toward a Standard Cortical Observer. _Optical Society of
