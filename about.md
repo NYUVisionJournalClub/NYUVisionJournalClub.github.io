@@ -12,3 +12,4 @@ Vitae]({{site.baseurl}}/cv/).
 ### Contact me
 
 [jingyang.zhou@nyu.edu](mailto:jingyang.zhou@nyu.edu)
+[jingy.chou@gmail.com](mailto: jingy.chou@gmail.com)
