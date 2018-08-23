@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 ### General reading list
-* Tony Movshon's suggested [reading list](http://www.cns.nyu.edu/~tony/vns/) for graduate *Visual Neuroscience*.
+* Tony Movshon's suggested [reading list](http://www.cns.nyu.edu/~tony/vns/) for graduate course *Visual Neuroscience*.
 
 ### Upcoming events
 
