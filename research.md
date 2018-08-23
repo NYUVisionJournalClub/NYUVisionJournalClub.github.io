@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /Events/
+permalink: /Research/
 ---
 
 ### Upcoming events
