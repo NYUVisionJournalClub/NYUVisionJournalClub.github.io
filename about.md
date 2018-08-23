@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This site is for documenting Vision Journal Club discussions at NYU. Vision Journal Club is a platform for students and faculties to discuss the advances and classics in all different domains of vision studies. 
+Vision Journal Club is a platform for students and faculties to discuss the advances and classics in all different domains of vision studies. This site is for documenting Vision Journal Club discussions at NYU. 
 
 ### Contact information
 
