@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Research
 permalink: /research/
 ---
 
@@ -26,8 +25,10 @@ permalink: /research/
 
 * **08/10/2018**, [Feedback determines the structure of correlated variability in primary visual cortex](https://www.nature.com/articles/s41593-018-0089-1) from Bruce Cumming's group. *Discussant*: Kathryn McClain.
 
-* **07/27/2018**, [Efficient coding explains the universal law of generalization in human perception](http://science.sciencemag.org.proxy.library.nyu.edu/content/360/6389/652.full) by Chris Sims. *Discussant*: Jon Winawer and jingyang Zhou.
+* **07/27/2018**, [Efficient coding explains the universal law of generalization in human perception](http://science.sciencemag.org.proxy.library.nyu.edu/content/360/6389/652.full) by Chris Sims, PART II. *Discussant*: Jon Winawer and jingyang Zhou.
 
 * **06/22/2018**, [The structure of Images](https://link.springer.com/content/pdf/10.1007%2FBF00336961.pdf) by Jan Koenderink. *Discussant*: Larry Maloney. 
+
+* **06/08/2018**, [Efficient coding explains the universal law of generalization in human perception](http://science.sciencemag.org.proxy.library.nyu.edu/content/360/6389/652.full) by Chris Sims, PART I. *Discussant*: Jon Winawer.
 
 
