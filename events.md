@@ -1,6 +1,7 @@
 ---
 layout: page
-permalink: /research/
+title: Events
+permalink: /events/
 ---
 
 ### General reading list
