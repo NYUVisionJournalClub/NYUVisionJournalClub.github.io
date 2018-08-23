@@ -8,7 +8,7 @@ Vision Journal Club is a platform for students and faculties to discuss the adva
 
 ### To suggest a paper/to lead a discussion:
 
-[Jingyang Zhou](jingyang-zhou@github.io): [jingyang.zhou@nyu.edu](mailto:jingyang.zhou@nyu.edu)  
-[Rachel Denison](http://www.racheldenison.com/): [rachel.denison@nyu.edu](mailto:rachel.denison@nyu.edu)  
-Manu Raghavan? [rtraghavan@nyu.edu](mailto:rtraghavan@nyu.edu)  
+[Jingyang Zhou](jingyang-zhou@github.io) ([jingyang.zhou@nyu.edu](mailto:jingyang.zhou@nyu.edu)  )
+[Rachel Denison](http://www.racheldenison.com/) ([rachel.denison@nyu.edu](mailto:rachel.denison@nyu.edu))
+Manu Raghavan ([rtraghavan@nyu.edu](mailto:rtraghavan@nyu.edu))  
 
