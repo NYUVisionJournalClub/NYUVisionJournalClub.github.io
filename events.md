@@ -6,7 +6,7 @@ permalink: /events/
 
 ### Upcoming events
 
-* **10/05/2018**, [Revealing detail along the visual hierarchy: Neural clustering preserves acuity from V1 to V4](https://www.cell.com/action/showPdf?pii=S0896-6273%2818%2930186-7). *Discussant*: Bill Boderick.
+* **11/02/2018**, [Revealing detail along the visual hierarchy: Neural clustering preserves acuity from V1 to V4](https://www.cell.com/action/showPdf?pii=S0896-6273%2818%2930186-7). *Discussant*: Bill Boderick and Paul Levy.
 
 * **09/21/2018**, [Chromatic detection from cone photoreceptors to V1 neurons to behavior in rhesus monkeys](https://jov.arvojournals.org/article.aspx?articleid=2468654) from Greg Horwitz's group. *Discussant*: Manu Raghavan.
 
