@@ -10,7 +10,7 @@ permalink: /events/
 
 * **11/09/2018** TBA.
 
-* **11/02/2018**, [Revealing detail along the visual hierarchy: Neural clustering preserves acuity from V1 to V4](https://www.cell.com/action/showPdf?pii=S0896-6273%2818%2930186-7) from Wei Wang's group. *Discussant*: Bill Boderick and Paul Levy.
+* **11/02/2018**, [Revealing detail along the visual hierarchy: Neural clustering preserves acuity from V1 to V4](https://www.cell.com/action/showPdf?pii=S0896-6273%2818%2930186-7) from Wei Wang's group. *Discussant*: Bill Broderick and Paul Levy.
 
 * **10/19/2018** TBA.
 
