@@ -6,15 +6,15 @@ permalink: /events/
 
 ### Upcoming events
 
-* **11/26/2018**. [Eccentricity-dependent temporal contrast tuning in human visual cortex measured with fMRI](https://www.sciencedirect.com/science/article/pii/S1053811918318548) from Alex Wade's group. *Discussant*: Iris Groen.
+* **11/16/2018**. [Eccentricity-dependent temporal contrast tuning in human visual cortex measured with fMRI](https://www.sciencedirect.com/science/article/pii/S1053811918318548) from Alex Wade's group. *Discussant*: Iris Groen.
 
 * **11/09/2018** TBA.
 
 * **11/02/2018**, [Revealing detail along the visual hierarchy: Neural clustering preserves acuity from V1 to V4](https://www.cell.com/action/showPdf?pii=S0896-6273%2818%2930186-7) from Wei Wang's group. *Discussant*: Bill Broderick and Paul Levy.
 
-* **10/19/2018** TBA.
+* **10/26/2018** TBA.
 
-* **10/19/2018**, [A computational observer model of spatial contrast sensitivity: Effects of wavefront-based optics, cone mosaid structure, and inference engine](https://www.biorxiv.org/content/early/2018/07/27/378323) from David Brainard's group. *Discussant*: Eline Kupers.
+* **10/19/2018**, [A computational observer model of spatial contrast sensitivity: Effects of wavefront-based optics, cone mosaic structure, and inference engine](https://www.biorxiv.org/content/early/2018/07/27/378323) from David Brainard's group. *Discussant*: Eline Kupers.
 
 * **10/09/2018**, [Measuring single neuron visual receptive field sizes by fMRI](https://www.biorxiv.org/content/early/2018/04/15/301648) from Smirnakis's group. *Discussant*: Billy Broderick.
 
